@@ -1,1 +1,6 @@
 some generic text
+
+added a few lines
+line1
+line2
+line3
